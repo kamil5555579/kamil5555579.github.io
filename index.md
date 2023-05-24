@@ -11,8 +11,11 @@ Simple interactive web app that analyzes data from a CSV file, deployed using He
 [Viev code on Github](https://github.com/kamil5555579/metals-dash)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Project 2 Title
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Viev code on Github](https://github.com/kamil5555579/iris-r-heroku)
 
 ---
 [Project 3 Title](http://example.com/)
