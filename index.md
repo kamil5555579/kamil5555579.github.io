@@ -4,7 +4,8 @@
 
 
 ### Metal Prices Visualization using Dash
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Simple interactive web app that analyzes data from a CSV file, deployed using Heroku.
+<img src="images/metals-dash.png?raw=true"/>
 
 [Viev code on Github](https://github.com/kamil5555579/metals-dash)
 ---
