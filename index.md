@@ -11,9 +11,10 @@ Simple interactive web app that analyzes data from a CSV file, deployed using He
 [Viev code on Github](https://github.com/kamil5555579/metals-dash)
 
 ---
-### Project 2 Title
+### Iris Prediction using RShiny
+Interactive app that uses random forest algorithm to predict iris species, deployed using Heroku.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/iris-predictor.png?raw=true"/>
 
 [Viev code on Github](https://github.com/kamil5555579/iris-r-heroku)
 
