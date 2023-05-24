@@ -2,11 +2,11 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
+### Metal Prices Visualization using Dash
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[Viev code on Github](https://github.com/kamil5555579/metals-dash)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
