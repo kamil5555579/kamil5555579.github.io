@@ -10,6 +10,7 @@ Simple interactive web app that analyzes data from a CSV file, deployed using He
 [Viev code on Github](https://github.com/kamil5555579/metals-dash)
 
 ---
+
 ### Iris Prediction using RShiny
 Interactive app that uses random forest algorithm to predict iris species, deployed using Heroku.
 
@@ -26,10 +27,21 @@ Interactive app that uses random forest algorithm to predict iris species, deplo
 
 ## Related to physics
 
+---
+
+### Shrodinger equation in Python
+Numerical solution of 1D, 2D and time-dependent Shrodinger equation, visualization with Plotly and Matplotlib.
+
+<img src="images/sh_equ.png?raw=true"/>
+
 [Viev code on Colab](https://colab.research.google.com/drive/1NwEgUGVBOi2QKI1BD8E-zYihBROB8j5k?usp=sharing)
 
 ---
 
+### Simulation of thermal expansion
+Pseudo research paper on a LAMMPS (C++ library) simulation.
+
+[Viev presentation](https://colab.research.google.com/drive/1NwEgUGVBOi2QKI1BD8E-zYihBROB8j5k?usp=sharing)
 
 
 
