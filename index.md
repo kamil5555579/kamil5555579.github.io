@@ -53,6 +53,7 @@ Desktop app in Java Swing that allows user to create an account, match with othe
 <img src="images/database.png?raw=true"/>
 
 [Viev code on Github](https://github.com/kamil5555579/tinder-java)
+
 [Viev presentation](/pdf/thermal_expansion.pdf)
 
 ---
