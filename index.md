@@ -25,6 +25,11 @@ Interactive app that uses random forest algorithm to predict iris species, deplo
 
 ---
 
+### Cats vs Dogs image classifier
+Image classification using TensorFlow and Keras neural network.
+
+[Viev code on Colab](https://colab.research.google.com/drive/1k4SbBf730U5MGPLWQzER2CgH7Lz0HBSC?usp=sharing)
+
 ## Related to physics
 
 ---
