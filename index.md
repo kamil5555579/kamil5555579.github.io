@@ -45,7 +45,15 @@ Pseudo research paper on a LAMMPS (C++ library) simulation.
 
 [Viev presentation](/pdf/thermal_expansion.pdf)
 
+---
 
+## Java tinder-like application with an SQL database
+Desktop app in Java Swing that allows user to create an account, match with other users and chat with them. All the data is saved in and loaded from an SQL database.
+
+<img src="images/database.png?raw=true"/>
+
+[Viev code on Github](https://github.com/kamil5555579/tinder-java)
+[Viev presentation](/pdf/thermal_expansion.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
