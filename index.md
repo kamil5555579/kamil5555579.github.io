@@ -32,6 +32,13 @@ Image classification using TensorFlow and Keras neural network.
 
 [Viev code on Colab](https://colab.research.google.com/drive/1k4SbBf730U5MGPLWQzER2CgH7Lz0HBSC?usp=sharing)
 
+---
+
+### SMS Text Classifier
+Classifing SMS messages as either normal or "spam" using TensorFlow and Keras neural network.
+
+[Viev code on Colab](https://colab.research.google.com/drive/1ZeHPTX3lX_EVoo4lNJzZXbQy_1lcJMK7?usp=sharing)
+
 ## Related to physics
 
 ---
