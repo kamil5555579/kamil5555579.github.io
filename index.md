@@ -1,7 +1,6 @@
-## Portfolio
+## Data apps
 
 ---
-
 
 ### Metal Prices Visualization using Dash
 Simple interactive web app that analyzes data from a CSV file, deployed using Heroku.
@@ -18,19 +17,16 @@ Interactive app that uses random forest algorithm to predict iris species, deplo
 
 [Viev code on Github](https://github.com/kamil5555579/iris-r-heroku)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+## Machine learning
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+## Related to physics
+
+[Viev code on Colab](https://colab.research.google.com/drive/1NwEgUGVBOi2QKI1BD8E-zYihBROB8j5k?usp=sharing)
 
 ---
 
