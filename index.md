@@ -41,7 +41,7 @@ Numerical solution of 1D, 2D and time-dependent Shrodinger equation, visualizati
 ### Simulation of thermal expansion
 Pseudo research paper on a LAMMPS (C++ library) simulation.
 
-[Viev presentation](https://colab.research.google.com/drive/1NwEgUGVBOi2QKI1BD8E-zYihBROB8j5k?usp=sharing)
+[Viev presentation](/pdf/thermal_expansion.pdf)
 
 
 
