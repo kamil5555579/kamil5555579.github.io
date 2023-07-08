@@ -21,6 +21,15 @@ Interactive app that uses random forest algorithm to predict iris species, deplo
 
 ---
 
+## Collecting data from YouTube API to AWS database
+Transferring YT videos statistics to Cloud database so then they can be visualized using tools like Apache Superset.
+
+<img src="images/views-in-time-2023-07-08T18-53-03.557Z.jpg?raw=true"/>
+
+---
+
+[View code on Colab](https://colab.research.google.com/drive/1XMFMZP_2aoDi0NqYKkJDr7Er2JDQr8RO?usp=sharing)
+
 ## Machine learning
 
 ---
@@ -68,7 +77,7 @@ Desktop app in Java Swing that allows user to create an account, match with othe
 
 [View code on Github](https://github.com/kamil5555579/tinder-java)
 
-[View presentation](/pdf/thermal_expansion.pdf)
+[View presentation](/pdf/java_tinder.pdf)
 
 ---
 
