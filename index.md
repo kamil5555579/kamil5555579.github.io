@@ -10,26 +10,6 @@ at CERNs Antiproton Decelerator (AD). This tool allows users to create interacti
 
 ---
 
-### Other smaller data apps
-
-#### Metal Prices Visualization using Dash
-Simple interactive web app that analyzes data from a CSV file, deployed using Heroku.
-
-<img src="images/metals-dash.png?raw=true"/>
-
-[View code on Github](https://github.com/kamil5555579/metals-dash)
-
----
-
-#### Iris Prediction using RShiny
-Interactive app that uses random forest algorithm to predict iris species, deployed using Heroku.
-
-<img src="images/iris-predictor.png?raw=true"/>
-
-[View code on Github](https://github.com/kamil5555579/iris-r-heroku)
-
----
-
 ## Collecting data from YouTube API to AWS database
 Transferring YT videos statistics to Cloud database so then they can be visualized using tools like Apache Superset.
 
