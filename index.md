@@ -23,8 +23,13 @@ Transferring YT videos statistics to Cloud database so then they can be visualiz
 
 ### Skin diseases image clusterization
 
-
 ---
+
+### Stellar classification
+
+[text](pdf/Stellar_classification.pptx)
+
+[text](pdf/Stellar_classification.pdf)
 
 ## Java tinder-like application with an SQL database
 Desktop app in Java Swing that allows user to create an account, match with other users and chat with them. All the data is saved in and loaded from an SQL database.
