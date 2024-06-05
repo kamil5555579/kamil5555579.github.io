@@ -4,7 +4,7 @@
 My biggest and best documented project yet. Alpaca Dashboard(s) is an online visualisation tool built on top of a data analysis framework called [Alpaca](https://aegis.docs.cern.ch/ALPACA). ALl Python Analyses Code of Aegis (ALPACA) is a library written in Python for the Aegis experiment
 at CERNs Antiproton Decelerator (AD). This tool allows users to create interactive charts and dashboards in order to observe and analyse data from experiment runs.
 
-<img src="images/alpaca_dash.png">
+![alt text](dashboard_preview.gif)
 
 [View code and extensive README on Github](https://github.com/kamil5555579/alpaca-dashboard)
 
@@ -21,19 +21,8 @@ Transferring YT videos statistics to Cloud database so then they can be visualiz
 
 ## Machine learning
 
-### Cats vs Dogs image classifier
-Image classification using TensorFlow and Keras neural network.
+### Skin diseases image clusterization
 
-<img src="images/cats_dogs.png?raw=true"/>
-
-[View code on Colab](https://colab.research.google.com/drive/1k4SbBf730U5MGPLWQzER2CgH7Lz0HBSC?usp=sharing)
-
----
-
-### SMS Text Classifier
-Classifing SMS messages as either normal or "spam" using TensorFlow and Keras neural network.
-
-[View code on Colab](https://colab.research.google.com/drive/1ZeHPTX3lX_EVoo4lNJzZXbQy_1lcJMK7?usp=sharing)
 
 ---
 
