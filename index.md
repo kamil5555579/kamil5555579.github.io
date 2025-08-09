@@ -1,3 +1,23 @@
+## Data automations
+
+### X/Twitter ETL Pipeline
+Simple ETL pipeline for extracting, transforming, and loading data from X/Twitter using Apache Airflow running on EC2 machine.
+
+![alt text](images/twitter_etl.png)
+
+[View code on Github](https://github.com/kamil5555579/Airflow_project)
+
+---
+
+### IPL Spark Analysis
+Using Apache Spark in Databricks environment to process and analyze dataset related to IPL matches, players, and teams.
+
+![alt text](images/ipl_spark.png)
+
+[View code on Github](https://github.com/kamil5555579/Spark_project)
+
+---
+
 ## Data apps
 
 ### Alpaca Dashboard(s)
@@ -73,30 +93,4 @@ Writing ML algortithms from scratch (Min-max, Multilayer perceptron, SVM, Q-lear
 [View code on Github](https://github.com/kamil5555579/WSI)
 
 ---
-
-## Battleship game
-Battlehsip game in Python using a server-client architecture.
-
-[View code on Github](https://github.com/kamil5555579/battleship)
-
-## Related to physics
-
-### Q-Voter model
-Simulation of sociophysical model of opinion dynamics on a network/graph.
-
-![alt text](images/network.png)
-
-[View code on Github](https://github.com/kamil5555579/Q_Voter)
-
----
-
-### Shrodinger equation in Python
-Numerical solution of 1D, 2D and time-dependent Shrodinger equation, visualization with Plotly and Matplotlib.
-
-![alt text](images/sh_equ.png)
-
-[View code on Colab (descriptions in Polish)](https://colab.research.google.com/drive/1NwEgUGVBOi2QKI1BD8E-zYihBROB8j5k?usp=sharing)
-
----
-
 
