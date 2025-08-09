@@ -18,6 +18,15 @@ Using Apache Spark in Databricks environment to process and analyze dataset rela
 
 ---
 
+### Collecting data from YouTube API to AWS database
+Transferring YT videos statistics to Cloud database so then they can be visualized using tools like Apache Superset.
+
+![alt text](images/cloud.jpg)
+
+[View code on Colab](https://colab.research.google.com/drive/1XMFMZP_2aoDi0NqYKkJDr7Er2JDQr8RO?usp=sharing)
+
+---
+
 ## Data apps
 
 ### Alpaca Dashboard(s)
@@ -27,15 +36,6 @@ at CERNs Antiproton Decelerator (AD). This tool allows users to create interacti
 ![alt text](images/dashboard_preview.gif)
 
 [View code and extensive README on Github](https://github.com/kamil5555579/alpaca-dashboard)
-
----
-
-### Collecting data from YouTube API to AWS database
-Transferring YT videos statistics to Cloud database so then they can be visualized using tools like Apache Superset.
-
-![alt text](images/cloud.jpg)
-
-[View code on Colab](https://colab.research.google.com/drive/1XMFMZP_2aoDi0NqYKkJDr7Er2JDQr8RO?usp=sharing)
 
 ---
 
